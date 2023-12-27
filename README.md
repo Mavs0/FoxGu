@@ -1,0 +1,2 @@
+# FoxGu
+Website using Svelte
